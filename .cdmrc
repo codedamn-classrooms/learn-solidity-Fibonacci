@@ -1,2 +1,3 @@
-tabs: ['contracts/Fibonacci.sol']
-terminals: ['yarn install']
+tabs: ["contracts/Fibonacci.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
